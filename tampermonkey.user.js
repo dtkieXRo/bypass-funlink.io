@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Bypass Funlink
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0-mod cu
 // @description  Bypass Funlink
-// @author       xGreen
-// @require      https://raw.githubusercontent.com/phantatdung233/bypass-funlink.io/refs/heads/main/bypass_funlink.js
+// @author       Cac No Name
+// @require      https://raw.githubusercontent.com/dtkieXRo/bypass-funlink.io/main/tampermonkey.user.js
 // @match        https://funlink.io/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
