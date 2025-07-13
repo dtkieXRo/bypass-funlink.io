@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass Funlink
 // @namespace    http://tampermonkey.net/
-// @version      1.0-mod cu
+// @version      1.0-old
 // @description  Bypass Funlink
 // @author       Cac No Name
 // @require      https://raw.githubusercontent.com/dtkieXRo/bypass-funlink.io/main/tampermonkey.user.js
